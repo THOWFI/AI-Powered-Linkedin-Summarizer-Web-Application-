@@ -1,4 +1,4 @@
-                                              ## AI-Powered LinkedIn Summarizer
+## AI-Powered LinkedIn Summarizer
 
 An intelligent web application that extracts, processes, and summarizes information from **LinkedIn profiles** using AI.
 It uses **web scraping + AI models** to quickly generate concise, professional summaries — perfect for recruiters, HR professionals, and anyone who needs quick insights.
